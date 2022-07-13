@@ -1,5 +1,7 @@
 ## UI Testing in React Native with Detox
 
+Photo by Brett Jordan on Unsplash
+
 Today, I would like to talk about UI tests, which is one of the things that I am responsible for years in the company that I work at. Let’s start with **what is UI testing.**
 
 **UI testing** is basically what designers, testers and the frontend developers do maybe without even noticing it. When we are testing a screen, we check the components: The button is located in the right place, the content is correct, the button navigates the user to the X screen, and so on. We were all doing it and it was namely UI (User Interface) Testing. It can be done manually or [automated with a testing tool](https://www.perfecto.io/products/testcraft). Regardless of the method used, the goal is to ensure that all the UI elements meet the requested specifications.
