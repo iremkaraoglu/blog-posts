@@ -1,6 +1,5 @@
 ## Developing a 2D mobile game as a mobile app developer
 
-## Intro
 After working on mobile application development for a few years, I started to develop 2D games. In this article, I would like to share with you my observations and compare two different concepts in the scope of mobile development. I will walk through the differences one by one and add example code snippets from my example of a Swift, SpriteKit 2D game.
 
 ![PandaClicker Mobile Game](https://cdn.hashnode.com/res/hashnode/image/upload/v1657718199122/pE1ThF_tUB.gif)
