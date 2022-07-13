@@ -45,14 +45,15 @@ Writing style={{ color: colors.yellow.dark1 }} instead of style={{ color: “rgb
 
 Designers designed what kind of buttons we will have and they divided these into three.
 
-Filled Button
-Text Button
-Iconic Button
+- Filled Button
+- Text Button
+- Iconic Button
 So, we created separate components for each of them. They have the Pressable component inside.
 
 Example of our button variants:
 
-![1*qFyDV1k9lBpiWnrdh5ySUg.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657652905876/D5xDLvjBi.png align="left")
+
+![1*qFyDV1k9lBpiWnrdh5ySUg-2.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657716482152/FU4rCxStL.png align="left")
 
 ### 👩🏻‍🎨 Theme Support
 
@@ -77,15 +78,18 @@ Usage
 
 How we use this theme support in our design system application is shown below.
 
-![1*AgML0npuIG9aoCeYiozC6A.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657652989116/UUeBVGhl6.png align="left")
+
+![1*AgML0npuIG9aoCeYiozC6A-2.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657716527870/IlsmONes3.png align="left")
 
 This shows the process of changing the primary color from blue to yellow in the theme, and the buttons that use primary color changes to yellow immediately. Why don’t we play and mix it more?
 
-![1*Z8o9bPbUBUAHuUWPortjPg.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657653009812/gCF2DjDHx.png align="left")
+
+![1*Z8o9bPbUBUAHuUWPortjPg-2.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657716800034/Gi_9YdDpy.png align="left")
 
 Changing primary, secondary, background, and textPrimary colors result with this grey backgrounded screen. We use these theme colors especially in the buttons, see how they changed:
 
-![1*opegTFi4Np_dLA5mCZd7uw.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657653031384/i8FxR92IB.png align="left")
+
+![1*opegTFi4Np_dLA5mCZd7uw-2.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657716829664/hS_7-MkbB.png align="left")
 
 ### SVG Icons into Font! 👀
 
@@ -105,9 +109,11 @@ Then, we came up with converting SVG Icons to the font. We can access them by us
 
 To see our icons list and how do they look according to the size, we created a page on our design system application.
 
+![1*RYOY_9w8pwPiesupqw4oug-2.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657716915716/43lpqKRf9.png align="left")
+
 ### Accessibility!
 
-![1*RYOY_9w8pwPiesupqw4oug.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657653122505/pKbJx3NtL.png align="left")
+![1*GGpOLbESJTqbYXxhkn5VgA.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657716908712/2xflt1kX7.png align="left")
 
 Accessibility is a part of our design system. During the building process of the design system, we also paid attention to how we can make our components and application accessible.
 
@@ -117,6 +123,6 @@ It is a long story so for further details, you can read an article about how to 
 
 Hope you enjoyed this article!
 
-If you’d like to see more articles, please clap this article so I can understand that you liked this content. 👏🏻 Thank you for being here and for your support. 💙
+If you’d like to see more articles, please subscribe to my newsletter 📨 Thank you for being here and for your support. 💙
 
 
