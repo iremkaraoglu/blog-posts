@@ -204,7 +204,7 @@ Potentially complex refactoring, in cases of old code or code that was written b
 
 Requires constraints for auto layout (responsiveness)
 
-### Conclusion
+## Conclusion
 
 in this article, we evaluated the pros and cons of using Storyboard to create an iOS app user interface vs. building it programmatically. We showed that each method can be advantageous, depending on the scenario. Here are the repositories for the [Storyboard example](https://github.com/iremkaraoglu/iOS-Storyboard-Example) and the [programmatically example](https://github.com/iremkaraoglu/iOS-ProgrammaticallyUI-Example) used in this article.
 
